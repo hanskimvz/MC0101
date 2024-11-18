@@ -1,0 +1,14 @@
+Date and Time : 11/13/24 22:27:19
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections P0_COPPER_LINK 
+                    SCHEMATIC1, 2-RTL8213B  (180.34, 180.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections P0_COPPER_ACT 
+                    SCHEMATIC1, 2-RTL8213B  (165.10, 218.44) 
+
+Checking For Unconnected Bus Nets

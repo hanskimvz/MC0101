@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MC0101S_V0.90A.pcbdoc]
+   Generated File[MC0101S_V0.90A.TXT]
+   Generated File[MC0101S_V0.90A.LDP]
+   Generated File[MC0101S_V0.90A.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÀü 12:13:11 On 2024-11-19
